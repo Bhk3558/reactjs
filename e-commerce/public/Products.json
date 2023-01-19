@@ -1,0 +1,53 @@
+[
+    {
+    "name" : "iphone 14 Max Pro",
+    "Price" : "95000",
+    "details" : "Created by Apple",
+    "image" : "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/610pghkO81L._AC_UY327_FMwebp_QL65_.jpg"
+},{
+    "name" : "MI Power Bank 3i 20000mAh",
+    "Price" : "2100",
+    "details" : "MI Power Bank 3i 20000mAh Lithium Polymer 18W Fast Power Delivery Charging | Input- Type C | Micro USB| Triple Output | Sandstone Black",
+    "image" : "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71lVwl3q-kL._SX679_.jpg"
+},{
+    "name" : "HAMMER Bash",
+    "Price" : "1795",
+    "details" : "HAMMER Bash Over The Ear Wireless Bluetooth Headphones with Mic, Deep Bass, Foldable Headphones, Fast Pairing, Upto 8 Hours Playtime, Workout/Travel, Bluetooth 5.0 (Black)",
+    "image" : "https://m.media-amazon.com/images/I/51oZ4ZKdzTL._SY741_.jpg"
+},{ 
+    "name" : "Canon EOS 90D Digital SLR Camera",
+    "Price" : "134999",
+    "details" : "Canon EOS 90D Digital SLR Camera with 18-135 is USM Lens [Black]i",
+    "image" : "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/81QKcQmJF7L._SX522_.jpg"
+},{ 
+    "name" : "TP-link N300 WiFi Wireless Router",
+    "Price" : "1149",
+    "details" : "TP-link N300 WiFi Wireless Router TL-WR845N | 300Mbps Wi-Fi Speed | Three 5dBi high gain Antennas | IPv6 Compatible | AP/RE/WISP Mode | Parental Control | Guest Network",
+    "image" : "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41fQ5NSkEWL._SX522_.jpg"
+},{ 
+    "name" : "Apple 2022 12.9-inch iPad Pro",
+    "Price" : "237900",
+    "details" : "Apple 2022 12.9-inch iPad Pro (Wi-Fi + Cellular, 2TB) - Silver (6th Generation)",
+    "image" : "https://m.media-amazon.com/images/I/814P0ojHArL._AC_UY327_QL65_.jpg"
+},{ 
+    "name" : "Samsung 55 Odyssey Ark",
+    "Price" : "269000",
+    "details" : "Samsung 55 Odyssey Ark, 4K UHD, 165 Hz, 1 Ms, 1000R Curved Gaming Monitor, Cockpit Mode, Mini-LED, Matte Display, Sound Dome, AMD FreeSync Premium Pro, Gaming Hub (LS55BG970NWXXL, Black)",
+    "image" : "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/81WM+OukI+L._SX679_.jpg"
+},{
+    "name":"Fastrack Men's Pilot Sunglasses Black Frame",
+    "Price":"639",
+    "details":"Fastrack Men's Pilot Sunglasses Black Frame, Brown Lens (Medium)-Pack of 1",
+    "image":"https://m.media-amazon.com/images/I/61vgaLSTdJL._UX679_.jpg"
+},{
+    "name":"The Power of Your Subconscious Mind",
+    "Price":"149",
+    "details":"The Power of Your Subconscious Mind Paperback – Advent Calendar, 1 February 2015",
+    "image":"https://m.media-amazon.com/images/I/41+CqNWoutS._SX460_BO1,204,203,200_.jpg"
+},{
+    "name":"boAt Airdopes 441 Pro",
+    "Price":"2799",
+    "details":"boAt Airdopes 441 Pro True Wireless in Ear Earbuds with Mic, Upto 150 Hours Playback, Signature Sound, IWP Technology, IPX7, BT v5.0, Type-c Interface and Capacitive Touch Controls(Active Black)",
+    "image":"https://m.media-amazon.com/images/I/31Bc3HzTdoL._SX300_SY300_QL70_FMwebp_.jpg "
+}
+]

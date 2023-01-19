@@ -1,0 +1,30 @@
+img{
+    height: 270px;
+    width: 260px !important;
+
+} 
+.card-title{
+    padding: 6px;
+    font-size: 15px;
+    min-height: 50px;
+    border-bottom: 1px solid gray;
+}
+.card {
+ 
+margin: 16px;
+
+}
+.flex-box{
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+}
+.svg { 
+    fill: goldenrod;
+
+}
+.stars{
+    display: flex;
+    align-items: center;
+}

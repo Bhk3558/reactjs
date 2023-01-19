@@ -1,0 +1,31 @@
+import { useState } from "react";
+import ProductCard from "../Components/Home/Product Card/ProductCard";
+import Footer from "../Components/Shared/Footer/Footer";
+import Header from "../Components/Shared/Header/Header";
+
+function Home (){
+// let products;
+// let data= "My data";
+// const [products,setProducts] = useState([]);
+fetch ("Products.json")
+//calling Json Function
+.then((res)=> res.json())
+//listing for json function to return
+.then((res)=>{
+   setProducts(res);
+});
+
+
+    return (
+        <div>
+            <Header />
+            <h1> {products}</h1>
+            <h1>{data}</h1> 
+            <div>
+                <ProductCard />
+            </div>
+            <Footer />
+        </div>
+    );
+}
+export default Home;
