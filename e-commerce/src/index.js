@@ -22,6 +22,7 @@ root.render(
     <Route path='/' element={<Home />}></Route>
     <Route path='/Register' element={<Register />}></Route>
      </Routes></BrowserRouter>
+        {/*  new testing conflict*/}
    {/* <Home /> */}
    {/* < CartPage /> */}
   </React.StrictMode>
